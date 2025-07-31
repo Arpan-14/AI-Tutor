@@ -1,0 +1,43 @@
+{
+  "user_name": "fff",
+  "last_updated": "2025-07-29T15:37:11.428021",
+  "total_messages": 6,
+  "conversations": [
+    {
+      "timestamp": "2025-07-29T15:36:59.490654",
+      "message": "what is AI",
+      "sender": "user",
+      "topic": ""
+    },
+    {
+      "timestamp": "2025-07-29T15:37:00.377196",
+      "message": null,
+      "sender": "bot",
+      "topic": ""
+    },
+    {
+      "timestamp": "2025-07-29T15:37:06.122522",
+      "message": "Can you explain this concept in detail?",
+      "sender": "user",
+      "topic": ""
+    },
+    {
+      "timestamp": "2025-07-29T15:37:07.022544",
+      "message": null,
+      "sender": "bot",
+      "topic": ""
+    },
+    {
+      "timestamp": "2025-07-29T15:37:10.610998",
+      "message": "I need practice problems.",
+      "sender": "user",
+      "topic": ""
+    },
+    {
+      "timestamp": "2025-07-29T15:37:11.428021",
+      "message": null,
+      "sender": "bot",
+      "topic": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "user_name": "tt",
+  "last_updated": "2025-07-29T14:14:17.107782",
+  "total_messages": 2,
+  "conversations": [
+    {
+      "timestamp": "2025-07-29T14:14:14.624356",
+      "message": "what is Machine Learning",
+      "sender": "user",
+      "topic": ""
+    },
+    {
+      "timestamp": "2025-07-29T14:14:17.107782",
+      "message": null,
+      "sender": "bot",
+      "topic": ""
+    }
+  ]
+}

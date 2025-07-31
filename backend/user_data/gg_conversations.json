@@ -1,0 +1,19 @@
+{
+  "user_name": "gg",
+  "last_updated": "2025-07-29T16:02:27.946132",
+  "total_messages": 2,
+  "conversations": [
+    {
+      "timestamp": "2025-07-29T16:02:26.468022",
+      "message": "what is api",
+      "sender": "user",
+      "topic": ""
+    },
+    {
+      "timestamp": "2025-07-29T16:02:27.946132",
+      "message": "Gemini API error: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"temperature\\\": Cannot find field.\\nInvalid JSON payload received. Unknown name \\\"maxOutputTokens\\\": Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"temperature\\\": Cannot find field.\"\n          },\n          {\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxOutputTokens\\\": Cannot find field.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n",
+      "sender": "bot",
+      "topic": ""
+    }
+  ]
+}
